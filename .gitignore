@@ -1,0 +1,5 @@
+output.mp3
+
+# Environment and Python cache
+.venv
+**/__pycache__/
